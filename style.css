@@ -10,6 +10,7 @@ p {
 
 #createNewButton {
     margin-top: 20px;
+    margin-bottom: 20px;
     
 }
 
@@ -18,4 +19,17 @@ p {
 }
 
 input {
+}
+
+body {
+    background-image: url(spirit.jpg);
+	background-color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+    }
+    
+span, p {
+    color: white;
 }

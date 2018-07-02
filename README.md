@@ -9,3 +9,6 @@
 
 4. NOTES:
     a. The page is responsive, and will look respectable on mobile devices. 
+
+5. Credits:
+    - Photo of Spirit Rover courtesy NASA/JPL-Caltech
