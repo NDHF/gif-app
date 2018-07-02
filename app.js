@@ -49,7 +49,7 @@ $(function() {
         
             //Declaring the Giphy API's query URL as a variable, incorporating our API key and search term
             //The "&limit5" will produce 5 results per click
-            var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + q + "&api_key=" + APIKey + "&limit=10";
+            var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + q + "&api_key=" + APIKey + "&limit=10";
         
             $.ajax({
               url: queryURL,
