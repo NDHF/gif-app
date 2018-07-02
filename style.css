@@ -30,6 +30,12 @@ body {
 	background-attachment: fixed;
     }
     
-span, p {
+span, p, h1 {
     color: white;
+}
+
+.favoritesButton {
+    display: block; 
+    margin: 0 auto;
+    margin-bottom: 20px;
 }
